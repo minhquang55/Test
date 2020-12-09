@@ -1,7 +1,7 @@
 * {
   padding: 0;
   margin: 0;
-  font-family: 'Roboto Condensed', sans-serif; }
+  font-family: "Roboto Condensed", sans-serif; }
 
 .wrapper .header {
   width: 100%;
@@ -28,12 +28,12 @@
         justify-content: center;
         align-items: center;
         padding: 0 25px;
-        border-right: 1px solid #EDEDED; }
+        border-right: 1px solid #ededed; }
         .wrapper .header .header-container .contact .contact__telephone i,
         .wrapper .header .header-container .contact .contact__opening-time i,
         .wrapper .header .header-container .contact .contact__email i {
           font-size: 28px;
-          color: #0B4571;
+          color: #0b4571;
           margin-right: 8px; }
         .wrapper .header .header-container .contact .contact__telephone .content p:nth-child(1),
         .wrapper .header .header-container .contact .contact__opening-time .content p:nth-child(1),
@@ -45,12 +45,12 @@
         .wrapper .header .header-container .contact .contact__opening-time .content p:nth-child(2),
         .wrapper .header .header-container .contact .contact__email .content p:nth-child(2) {
           font-size: 13px;
-          color: #BEBEBE; }
+          color: #bebebe; }
     .wrapper .header .header-container .network-social-logo {
       margin-left: 20px; }
       .wrapper .header .header-container .network-social-logo i {
         margin-right: 8px;
-        color: #0B4571;
+        color: #0b4571;
         font-size: 18px; }
 
 .wrapper .navigation-bar {
@@ -90,7 +90,7 @@
       color: white;
       font-size: 13px;
       font-weight: bold;
-      background-color: #FDC41C;
+      background-color: #fdc41c;
       border: none;
       outline: none;
       cursor: pointer;
@@ -119,9 +119,9 @@
             font-weight: bold; }
           .wrapper .slide-image .carousel .carousel-inner .carousel-item .carousel-caption hr {
             margin: 20px auto;
-            border: 1.5px solid #F4C33A;
+            border: 1.5px solid #f4c33a;
             width: 65px;
-            background-color: #F4C33A; }
+            background-color: #f4c33a; }
           .wrapper .slide-image .carousel .carousel-inner .carousel-item .carousel-caption p {
             margin: 0 auto;
             width: 36%; }
@@ -131,9 +131,9 @@
   margin-top: 40px; }
   .wrapper .information hr {
     margin: 10px 0 30px 0;
-    border: 1.5px solid #F4C33A;
+    border: 1.5px solid #f4c33a;
     width: 50px;
-    background-color: #F4C33A; }
+    background-color: #f4c33a; }
   .wrapper .information .information-container {
     display: flex;
     justify-content: space-between;
@@ -160,21 +160,21 @@
       .wrapper .information .information-container .helpful-support-team p {
         width: 60%;
         font-size: 15px;
-        color: #AAAAAA; }
+        color: #aaaaaa; }
       .wrapper .information .information-container .helpful-support-team button {
         margin-top: 25px;
         width: 110px;
         height: 35px;
         background-color: transparent;
         border-width: 3px 7px;
-        border-color: #023E6F;
+        border-color: #023e6f;
         font-weight: bold;
-        color: #023E6F;
+        color: #023e6f;
         outline-style: none;
         cursor: pointer; }
     .wrapper .information .information-container .why-choose-us {
       background-color: #164271;
-      color: #FEFCFF;
+      color: #fefcff;
       padding-left: 20%;
       box-sizing: border-box;
       display: flex;
@@ -185,7 +185,7 @@
         .wrapper .information .information-container .why-choose-us ul li {
           list-style: none; }
           .wrapper .information .information-container .why-choose-us ul li i {
-            color: #F4C33A;
+            color: #f4c33a;
             font-size: 9px;
             margin-right: 18px; }
       .wrapper .information .information-container .why-choose-us button {
@@ -196,9 +196,9 @@
         background-color: transparent;
         border-style: solid;
         border-width: 3px 6px;
-        border-color: #FEFCFF;
+        border-color: #fefcff;
         font-weight: bold;
-        color: #FEFCFF;
+        color: #fefcff;
         outline-style: none;
         cursor: pointer; }
     .wrapper .information .information-container .car-image {
@@ -212,9 +212,9 @@
   margin-top: 90px; }
   .wrapper .services hr {
     margin: 10px auto;
-    border: 1.5px solid #F4C33A;
+    border: 1.5px solid #f4c33a;
     width: 50px;
-    background-color: #F4C33A; }
+    background-color: #f4c33a; }
   .wrapper .services .services-container {
     width: 60%;
     margin: 0 auto;
@@ -234,20 +234,20 @@
       font-size: 22px;
       font-weight: bold; }
     .wrapper .services .services-container .ground-shipping {
-      background-image: url(/image/plane.jpg); }
+      background-image: url(../image/plane.jpg); }
     .wrapper .services .services-container .warehousing {
-      background-image: url(/image/staff.jpg); }
+      background-image: url(../image/staff.jpg); }
     .wrapper .services .services-container .trucking-service {
-      background-image: url(/image/trucking.jpg); }
+      background-image: url(../image/trucking.jpg); }
     .wrapper .services .services-container .caro-service {
-      background-image: url(/image/caro.jpg); }
+      background-image: url(../image/caro.jpg); }
 
 .wrapper .quote-slide {
   width: 100%;
   height: 450px;
   margin-top: 80px; }
   .wrapper .quote-slide .carousel {
-    background-image: url(/image/quote-background.jpg);
+    background-image: url(../image/quote-background.jpg);
     background-size: cover;
     background-position-y: 80%;
     width: 100%;
@@ -270,9 +270,9 @@
             font-size: 31px; }
           .wrapper .quote-slide .carousel .carousel-inner .carousel-item .carousel-caption hr {
             margin: 10px auto 25px auto;
-            border: 1.5px solid #F4C33A;
+            border: 1.5px solid #f4c33a;
             width: 50px;
-            background-color: #F4C33A; }
+            background-color: #f4c33a; }
           .wrapper .quote-slide .carousel .carousel-inner .carousel-item .carousel-caption .fas {
             font-size: 40px;
             margin-bottom: 20px; }
@@ -311,9 +311,9 @@
   height: 230px; }
   .wrapper .get-quote hr {
     margin: 10px 0 20px 0;
-    border: 1.5px solid #F4C33A;
+    border: 1.5px solid #f4c33a;
     width: 50px;
-    background-color: #F4C33A; }
+    background-color: #f4c33a; }
   .wrapper .get-quote .get-quote-container {
     width: 60%;
     height: 100%;
@@ -324,14 +324,14 @@
     .wrapper .get-quote .get-quote-container div {
       width: 75%; }
       .wrapper .get-quote .get-quote-container div p {
-        color: #AAAAAA;
+        color: #aaaaaa;
         font-size: 15px; }
     .wrapper .get-quote .get-quote-container button {
       width: 130px;
       height: 45px;
       border: none;
       outline-style: none;
-      background-color: #17426D;
+      background-color: #17426d;
       color: white;
       font-size: 12px;
       font-weight: bold;
@@ -340,20 +340,20 @@
 .wrapper .feedback {
   width: 100%;
   height: 400px;
-  background-color: #23438D; }
+  background-color: #23438d; }
   .wrapper .feedback .contact-container {
     width: 60%;
     height: 100%;
     margin: 0 auto;
-    background-image: url(/image/contact-background.png);
+    background-image: url(../image/contact-background.png);
     background-size: 100%;
     display: flex;
     justify-content: space-between;
     box-sizing: border-box;
     padding-top: 40px; }
     .wrapper .feedback .contact-container div h5 {
-      color: #F4FDFD;
-      border-left: 2px solid #F4C33A;
+      color: #f4fdfd;
+      border-left: 2px solid #f4c33a;
       padding-left: 10px;
       margin-bottom: 30px;
       font-size: 16px; }
@@ -364,11 +364,11 @@
         align-items: center; }
         .wrapper .feedback .contact-container .company div .fas {
           font-size: 45px;
-          color: #F4C33A; }
+          color: #f4c33a; }
         .wrapper .feedback .contact-container .company div .content {
           display: flex;
           flex-direction: column;
-          color: #F4FDFD; }
+          color: #f4fdfd; }
           .wrapper .feedback .contact-container .company div .content span {
             font-size: 30px;
             font-weight: bold; }
@@ -418,7 +418,7 @@
 .wrapper .footer {
   width: 100%;
   height: 65px;
-  background-color: #12355B; }
+  background-color: #12355b; }
   .wrapper .footer .footer-container {
     height: 100%;
     width: 60%;
