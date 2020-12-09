@@ -290,19 +290,19 @@
                 font-weight: bold;
             }
             .ground-shipping {
-                background-image: url(./image/plane.jpg);
+                background-image: url(/image/plane.jpg);
             }
 
             .warehousing {
-                background-image: url(./image/staff.jpg);
+                background-image: url(/image/staff.jpg);
             }
 
             .trucking-service {
-                background-image: url(./image/trucking.jpg);
+                background-image: url(/image/trucking.jpg);
             }
 
             .caro-service {
-                background-image: url(./image/caro.jpg);
+                background-image: url(/image/caro.jpg);
             }
         }
     }
@@ -312,7 +312,7 @@
         height: 450px;
         margin-top: 80px;
         .carousel {
-            background-image: url(./image/quote-background.jpg);
+            background-image: url(/image/quote-background.jpg);
             background-size: cover;
             background-position-y: 80%;
             width: 100%;
@@ -433,7 +433,7 @@
             width: 60%;
             height: 100%;
             margin: 0 auto;
-            background-image: url(./image/contact-background.png);
+            background-image: url(/image/contact-background.png);
             background-size: 100% ;
             display: flex;
             justify-content: space-between;
